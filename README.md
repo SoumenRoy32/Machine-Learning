@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning Project 01
 Project Name: This is a Machine Learning Project 1 - Predicting TV Sales.
 
 Project Description: Building a Machine Learning Model to predict the TV Sales.
