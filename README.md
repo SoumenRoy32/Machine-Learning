@@ -1,13 +1,18 @@
 # Machine-Learning
 Project Name: This is a Machine Learning Project 1 - Predicting TV Sales.
+
 Project Description: Building a Machine Learning Model to predict the TV Sales.
+
 Dataset: It has 2 attributes such as TV and Sales.
+
 Link for Dataset: https://www.kaggle.com/datasets/leiadis/tvmarketing
 
 Objective: To create an ML Model which can predict the Sales based on Pre-trained Sales data.
 
 Libraries Used: sklearn, model_selection, train_test_split
+
 Statistics Used: Simple Linear Regression
+
 Checked Performance Using: mean_squared_error and r_squared
 
 Result: 
